@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey there!
 
-<!--
-**itshardlight/itshardlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Unish Maharjan**, a student based in Nepal.
 
-Here are some ideas to get you started:
+I’m currently learning frontend development and building things with React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something interests me, I try to learn it and create something from it.
+
+My main focus right now is **React and frontend development**.
+
+I’m still early in my journey, but I’m working on improving my skills step by step.
+
+---
+
+### Fun Facts:
+
+- I’m a student learning to code
+- Interested in frontend and UI design
+- I enjoy building and exploring new tech
+``
