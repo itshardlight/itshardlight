@@ -21,6 +21,9 @@ I’m still early in my journey, but I’m working on improving my skills step b
 ### 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,github,vscode,python,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://img.shields.io/badge/PrimeFaces-2C2255?style=for-the-badge&logo=prime&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPQL-4CAF50?style=for-the-badge&logo=hibernate&logoColor=white" />
 </p>
 
