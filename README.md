@@ -1,14 +1,6 @@
 ### Hey there!
 
-I'm **Unish Maharjan**, a student based in Nepal.
-
-I’m currently learning frontend development and building things with React.
-
-If something interests me, I try to learn it and create something from it.
-
-My main focus right now is **React and frontend development**.
-
-I’m still early in my journey, but I’m working on improving my skills step by step.
+Computer Science graduate with hands-on experience in full-stack Java development and production software. Currently a Software Developer Intern at Diyalo Technologies, working with Java, JSF, PrimeFaces, SQL, and JPQL on the WaterMark system. Experienced in feature development, debugging, and database-driven applications. Also exploring AI automation with n8n and Svelte. Seeking a Junior Java Developer role to grow as a software engineer.
 
 ---
 
