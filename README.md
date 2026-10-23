@@ -1,15 +1,8 @@
-### Hey there!
+
 
 Computer Science graduate with hands-on experience in full-stack Java development and production software. Currently a Software Developer Intern at Diyalo Technologies, working with Java, JSF, PrimeFaces, SQL, and JPQL on the WaterMark system. Experienced in feature development, debugging, and database-driven applications. Also exploring AI automation with n8n and Svelte. Seeking a Junior Java Developer role to grow as a software engineer.
 
----
 
-### Fun Facts:
-
-- I’m a student learning to code
-- Interested in frontend and UI design
-- I enjoy building and exploring new tech
-``
 ### 🚀 Languages and Tools
 
 <p align="left">
